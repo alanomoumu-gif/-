@@ -1,0 +1,19 @@
+{
+  "cover": "assets/cover.png",
+  "home": {
+    "title": "点意空间",
+    "html": ""
+  },
+  "about": {
+    "title": "关于我们",
+    "html": ""
+  },
+  "cases": {
+    "title": "案例展示",
+    "items": []
+  },
+  "news": {
+    "title": "新闻动态",
+    "items": []
+  }
+}
